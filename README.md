@@ -1,12 +1,6 @@
 # Project: Lumen Service App
 Tugas 5 - Web Service
 
-## Installation
-### Git Clone
-```sh
-git clone -b tugas-5 https://github.com/xyzjgmday/web-service.git
-```
-
 ### install Dependency 
 ```sh
 composer install
